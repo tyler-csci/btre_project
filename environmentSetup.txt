@@ -1,0 +1,22 @@
+Create virtual environment:
+python3 -m venv ./venv
+
+Active venv:
+source ./venv/bin/activate
+
+Leave environment:
+deactivate
+
+Install Django:
+pip install Django
+
+Show Dependencies:
+pip freeze
+
+Create a Project:
+django-admin startproject <project-name> .
+
+Get Help:
+django-admin help
+or
+python manage.py help
