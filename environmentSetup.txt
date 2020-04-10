@@ -20,3 +20,8 @@ Get Help:
 django-admin help
 or
 python manage.py help
+
+Add pylint:
+pip install pylint
+
+Add to Github
